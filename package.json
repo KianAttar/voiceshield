@@ -50,6 +50,7 @@
     "mac": {
       "target": "dmg",
       "category": "public.app-category.utilities",
+      "identity": null,
       "extraResources": [
         {
           "from": "node_modules/ffmpeg-static/ffmpeg",
