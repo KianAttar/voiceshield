@@ -13,6 +13,7 @@ function createWindow(): void {
       contextIsolation: true,
       nodeIntegration: false
     },
+    icon: path.join(__dirname, '../../build/icon.png'),
     titleBarStyle: 'hiddenInset',
     backgroundColor: '#020617'
   })
