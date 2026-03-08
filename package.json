@@ -1,6 +1,6 @@
 {
   "name": "voiceshield",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Anonymize voices in video files using FFmpeg",
   "main": "./out/main/index.js",
   "scripts": {
