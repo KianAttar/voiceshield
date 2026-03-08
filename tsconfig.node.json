@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "outDir": "out/types"
+  },
+  "include": ["src/main", "src/preload", "src/shared", "electron.vite.config.*"]
+}
